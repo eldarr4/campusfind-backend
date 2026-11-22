@@ -8,5 +8,7 @@
 Output of `git shortlog -sn --all`:
 
 ```text
-<PASTE THE OUTPUT HERE BEFORE SUBMITTING>
+  24 eldarr4
+  8 Saleh Suleymanli
 ```
+'eldarr4' is Eldar Mammadzada's GitHub account.
